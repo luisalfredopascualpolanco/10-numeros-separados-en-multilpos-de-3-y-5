@@ -1,0 +1,7 @@
+D:\Programas\Cursos\C# ya\10-numeros-separados-en-multilpos-de-3-y-5\proyecto10.4\proyecto10.4\bin\Debug\proyecto10.4.exe.config
+D:\Programas\Cursos\C# ya\10-numeros-separados-en-multilpos-de-3-y-5\proyecto10.4\proyecto10.4\bin\Debug\proyecto10.4.exe
+D:\Programas\Cursos\C# ya\10-numeros-separados-en-multilpos-de-3-y-5\proyecto10.4\proyecto10.4\bin\Debug\proyecto10.4.pdb
+D:\Programas\Cursos\C# ya\10-numeros-separados-en-multilpos-de-3-y-5\proyecto10.4\proyecto10.4\obj\Debug\proyecto10.4.csproj.AssemblyReference.cache
+D:\Programas\Cursos\C# ya\10-numeros-separados-en-multilpos-de-3-y-5\proyecto10.4\proyecto10.4\obj\Debug\proyecto10.4.csproj.CoreCompileInputs.cache
+D:\Programas\Cursos\C# ya\10-numeros-separados-en-multilpos-de-3-y-5\proyecto10.4\proyecto10.4\obj\Debug\proyecto10.4.exe
+D:\Programas\Cursos\C# ya\10-numeros-separados-en-multilpos-de-3-y-5\proyecto10.4\proyecto10.4\obj\Debug\proyecto10.4.pdb
